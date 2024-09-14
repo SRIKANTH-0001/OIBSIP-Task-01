@@ -1,6 +1,7 @@
-
-
-
+NAME: SRIKANTH K         
+COMPANY: Oasis Infobyte          
+DOMAIN: Web Development and Design         
+DURATION: 4 Weeks              
 
 
 Travel.com Landing Page Overview
